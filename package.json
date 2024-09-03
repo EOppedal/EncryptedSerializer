@@ -1,0 +1,13 @@
+{
+  "name": "com.erlend-eiken-oppedal.encryptedserializer",
+  "version": "1.0.0",
+  "displayName": "Encrypted Serializer",
+  "author": {
+    "name": "Erlend Eiken Oppedal",
+    "email": "erlend.oppedal@gmail.com"
+  },
+  "dependencies": {
+    "com.erlend-eiken-oppedal.serializers": "https://github.com/EOppedal/Serializers.git",
+    "com.erlend-eiken-oppedal.encryption": "https://github.com/EOppedal/Encryption.git"
+  }
+}

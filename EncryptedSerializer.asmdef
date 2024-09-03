@@ -1,0 +1,17 @@
+{
+    "name": "EncryptedSerializer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c506bb5aed0435344b4a4a7f80cf1e89",
+        "GUID:8c6bdac49d129f14ebd66b373eb2f191"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
